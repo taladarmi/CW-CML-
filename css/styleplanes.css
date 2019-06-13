@@ -1,0 +1,44 @@
+*{
+    font-family: 'Roboto Slab', serif;
+    
+}
+body{
+    margin: 0;
+
+    }
+
+    .barakuda{
+        margin:0;
+        height:64px;
+        width:100%;
+        background-color: #333;
+    }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      
+      li {
+          float: left;
+          margin: 0;
+      }
+      
+      li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 20px 40px;
+          text-decoration: none;
+          margin: 0;
+          
+      }
+    
+      li a:hover {
+          background-color: #111;
+          margin: 0;
+          color:white;
+      }
+    
+ 
